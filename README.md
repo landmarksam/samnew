@@ -1,2 +1,3 @@
-# samnew
-# samnew
+this is a practice project
+leaning to improve
+learning more
